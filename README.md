@@ -36,9 +36,9 @@ https://www.linkedin.com/in/matheus-morillo/
 
 <div style="display: flex; justify-content: space-between;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mmorillodev&show_icons=true&theme=dracula" />
+    <img align="center" src="https://github-readme-stats-seven-ruby-25.vercel.app/api?username=mmorillodev&show_icons=true&theme=dracula" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmorillodev&layout=compact&theme=dracula" />
+    <img align="center" src="https://github-readme-stats-seven-ruby-25.vercel.app/api/top-langs/?username=mmorillodev&layout=compact&theme=dracula" />
   </a>
  </div>
